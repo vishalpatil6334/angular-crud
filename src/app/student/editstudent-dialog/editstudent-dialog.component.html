@@ -1,0 +1,40 @@
+<button mat-button (click)="onClose()">
+    <mat-icon>close</mat-icon>
+  </button>
+  
+  <mat-toolbar color="primary">Edit Student Details</mat-toolbar>
+  <form [formGroup]="service.form" class="normal-form" (submit)="onSubmit()">
+  
+    <mat-form-field class="example-full-width">
+      <mat-label>ID</mat-label>
+      <input formControlName="id" readonly='readonly'matInput >
+  </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+          <mat-label>Enter Name</mat-label>
+          <input formControlName="name" matInput placeholder="ex-Vishal*" >
+          <mat-error>This field is mandatory</mat-error>
+        </mat-form-field>
+      
+        <mat-form-field class="example-full-width">
+          <mat-label>Enter E-mail</mat-label>
+          <input formControlName="email" matInput placeholder="ex-abc@gmail.com" >
+          <mat-error>Invalid Email address</mat-error>
+        </mat-form-field>
+    
+  
+        <mat-form-field class="example-full-width">
+          <mat-label>Enter Contact</mat-label>
+          <input formControlName="contact" matInput placeholder="ex-987561255*" >
+          <mat-error *ngIf="service.form.controls['contact'].errors?.reqired">This field is mandatory</mat-error>
+          <mat-error *ngIf="service.form.controls['contact'].errors?.minlength">minimum 8 characters required</mat-error>
+        </mat-form-field>
+  
+  
+      
+  
+      <button mat-raised-button color="primary" type="submit">Submit</button>
+      <button mat-raised-button color="warn" (click)="onClear()" >Clear</button>
+  
+  </form>
+  

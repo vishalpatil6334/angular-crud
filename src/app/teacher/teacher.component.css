@@ -1,0 +1,22 @@
+.mat-button{
+    background-color: rgb(27, 27, 80);
+    margin-left: 150px;
+    color: white;
+  }
+
+ 
+ table{
+   width: 100%;
+ }
+ .mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+th{
+  font-size: 15px;
+  font-weight: bold;
+}
+.addbutton{
+  margin-left: 80%;
+}

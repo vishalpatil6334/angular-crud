@@ -1,0 +1,150 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Vaishali",
+      "email": "vaishali@gmail.com",
+      "contact": "1234567890"
+    },
+    {
+      "id": 3,
+      "name": "Sunita",
+      "email": "sunita@gmail.com",
+      "contact": "9463886997"
+    },
+    {
+      "id": 6,
+      "name": "Kiran pathe",
+      "email": "Kiran@gmail.com",
+      "contact": "952356554"
+    },
+    {
+      "id": 8,
+      "name": "Kajal",
+      "email": "kajal@gmail.com",
+      "contact": "9623456274"
+    },
+    {
+      "id": 9,
+      "name": "Deepali",
+      "email": "deepali@gmail.com",
+      "contact": "8226356412"
+    },
+    {
+      "id": 10,
+      "name": "ganesh",
+      "email": "ganesh@gmail.com",
+      "contact": "9623456200"
+    },
+    {
+      "id": 11,
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "contact": "2654455655"
+    },
+    {
+      "id": 12,
+      "name": "bony",
+      "email": "bony@gmail.com",
+      "contact": "235455445445"
+    },
+    {
+      "id": 14,
+      "name": "Mansi",
+      "email": "manasi@gmail.com",
+      "contact": "95656568888"
+    },
+    {
+      "id": 15,
+      "name": "kalpana",
+      "email": "kalpana@gmail.com",
+      "contact": "456655122"
+    },
+    {
+      "id": 16,
+      "name": "Vaibhav",
+      "email": "vaibhav@gmail.com",
+      "contact": "785264553"
+    }
+  ],
+  "teacher": [
+    {
+      "id": 1,
+      "name": "Tushar",
+      "email": "tushar@gmail.com",
+      "subject": "English",
+      "contact": 952145687
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "John@gmail.com",
+      "subject": "Marathi",
+      "contact": 9521456856
+    },
+    {
+      "id": 3,
+      "name": "Rajesh",
+      "email": "rajesh@gmail.com",
+      "subject": "Hindi",
+      "contact": 95214568545
+    },
+    {
+      "id": 8,
+      "name": "om",
+      "email": "om@gmail.com",
+      "subject": "hindi",
+      "contact": 952145687564
+    },
+    {
+      "id": 9,
+      "name": "Rupesh",
+      "email": "rupesh@gmail.com",
+      "subject": "Marathi",
+      "contact": 95214568754
+    },
+    {
+      "name": "Sunita",
+      "email": "sunita@gmail.com",
+      "subject": "Hindi",
+      "id": 10,
+      "contact": 95214568754
+    },
+    {
+      "id": 11,
+      "name": "prashant",
+      "email": "prashant@gmail.com",
+      "contact": "4562488888",
+      "subject": "histy"
+    },
+    {
+      "id": 12,
+      "name": "pankaj",
+      "email": "pankaj@gmail.com",
+      "contact": "456522144555",
+      "subject": "math"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "subject": "Physics",
+      "auther": "Amol"
+    },
+    {
+      "id": 2,
+      "subject": "Math",
+      "auther": "Akshay"
+    },
+    {
+      "id": 3,
+      "subject": "Science",
+      "auther": "Rahul"
+    },
+    {
+      "id": 4,
+      "subject": "Histry",
+      "auther": "Bony"
+    }
+  ]
+}
