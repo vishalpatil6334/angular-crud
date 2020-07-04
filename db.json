@@ -6,36 +6,11 @@
       "email": "vaishali@gmail.com",
       "contact": "1234567890"
     },
-    {
-      "id": 3,
-      "name": "Sunita",
-      "email": "sunita@gmail.com",
-      "contact": "9463886997"
-    },
-    {
-      "id": 6,
-      "name": "Kiran pathe",
-      "email": "Kiran@gmail.com",
-      "contact": "952356554"
-    },
-    {
-      "id": 8,
-      "name": "Kajal",
-      "email": "kajal@gmail.com",
-      "contact": "9623456274"
-    },
-    {
-      "id": 9,
-      "name": "Deepali",
-      "email": "deepali@gmail.com",
-      "contact": "8226356412"
-    },
-    {
-      "id": 10,
-      "name": "ganesh",
-      "email": "ganesh@gmail.com",
-      "contact": "9623456200"
-    },
+ 
+   
+ 
+   
+  
     {
       "id": 11,
       "name": "ram",
@@ -48,12 +23,7 @@
       "email": "bony@gmail.com",
       "contact": "235455445445"
     },
-    {
-      "id": 14,
-      "name": "Mansi",
-      "email": "manasi@gmail.com",
-      "contact": "95656568888"
-    },
+   
     {
       "id": 15,
       "name": "kalpana",
